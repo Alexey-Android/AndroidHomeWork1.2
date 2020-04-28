@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Android HomeWork 1.2</string>
+    <string name="app_name">Подписка</string>
     <string name="editTextEnterName">Введите имя</string>
     <string name="editTextEnterEmail">Введите E-mail</string>
     <string name="textViewEnterName">Введите имя</string>
