@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Android HomeWork 1.2</string>
+    <string name="editTextEnterName">Введите имя</string>
+    <string name="editTextEnterEmail">Введите E-mail</string>
+    <string name="textViewEnterName">Введите имя</string>
+    <string name="textViewEnterEmail">Введите E-mail</string>
+    <string name="buttonSubscribe">Подписаться</string>
+    <string name="buttonClearForm">Очистить</string>
+</resources>
